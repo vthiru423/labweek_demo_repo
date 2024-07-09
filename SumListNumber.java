@@ -4,6 +4,7 @@ public class UglyCode {
 
     public static void main(String[] args) {
         // Create a list of numbers
+        // Arraly to List
         ArrayList<Integer> numbers = new ArrayList<Integer>();
         numbers.add(10);
         numbers.add(20);
